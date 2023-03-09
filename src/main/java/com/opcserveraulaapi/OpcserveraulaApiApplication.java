@@ -9,6 +9,7 @@ public class OpcserveraulaApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OpcserveraulaApiApplication.class, args);
 		System.out.println("Server UP QUE COISA LINDA!");
+		System.out.println("Testand Git");
 	}
 
 }
